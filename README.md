@@ -1,5 +1,5 @@
 <ul>
-<li>Self Taught Full Stack Web Development</li>
+<li>Self Taught Full Stack Web Developer</li>
 <li>API and Frontend Development with modern frameworks.</li>
 <li>API Integration Payment Gateway Integration</li>
 <li>Experience in website development</li>
