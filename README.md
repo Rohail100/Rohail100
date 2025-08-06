@@ -1,5 +1,5 @@
 <ul>
-<li>obsolete</li>
+<li>OBSOLETE/OLD PROFILE</li>
 <li>Full Stack Web Developer</li>
 <li>API and Frontend Development with modern frameworks.</li>
 <li>API Integration Payment Gateway Integration</li>
